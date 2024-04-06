@@ -1,22 +1,22 @@
 {
-	"username": "Excalith",
+	"username": "yetkin",
 	"theme": {
 		"name": "Default",
 		"backgroundColor": "#121317",
 		"windowColor": "#1e212b",
 		"textColor": "#e2e2e2",
 		"black": "#16161e",
-		"red": "#ec6183",
-		"green": "#2ed8a2",
-		"yellow": "#e8b195",
-		"blue": "#2bc3de",
-		"magenta": "#d1aff8",
+		"red": "#ec7875",
+		"green": "#61c766",
+		"yellow": "#fdd835",
+		"blue": "#42a5f5",
+		"magenta": "#ba68c8",
 		"cyan": "#62e0e2",
-		"white": "#e2e2e2",
+		"white": "#4dd0e1",
 		"gray": "#97989d"
 	},
 	"wallpaper": {
-		"url": "assets/default-wallpaper.svg",
+		"url": "",
 		"easing": "ease-in-out",
 		"fadeIn": true,
 		"blur": false
@@ -112,28 +112,28 @@
 				"title": "General",
 				"color": "green",
 				"align": "left",
-				"links": [
+				"links": 
+				[
 					{
-						"name": "Portfolio",
-						"url": "https://cancellek.com",
-						"icon": "mdi:web"
+						"name": "Google",
+						"url": "https://google.com",
+						"icon": "mdi:google"
 					},
 					{
-						"name": "Keybase",
-						"url": "https://keybase.io/",
-						"icon": "fa-brands:keybase"
+						"name": "DuckDuckGo",
+						"url": "https://duckduckgo.com",
+						"icon": "mdi:duck"
 					},
 					{
-						"name": "GPT",
-						"url": "https://chat.openai.com/",
-						"icon": "simple-icons:openai"
+						"name": "Brave",
+						"url": "https://brave.com",
+						"icon": "mdi:shield"
 					},
 					{
-						"name": "OCI",
-						"url": "https://www.oracle.com/cloud/",
-						"icon": "simple-icons:oracle"
-					}
-				]
+						"name": "Wikipedia",
+						"url": "https://wikipedia.org",
+						"icon": "mdi:wikipedia"
+					}]
 			},
 			{
 				"title": "Dev",
@@ -168,6 +168,11 @@
 				"align": "left",
 				"links": [
 					{
+						"name": "Reddit",
+						"url": "https://reddit.com",
+						"icon": "mdi:reddit"
+					},
+					{
 						"name": "Twitter",
 						"url": "https://twitter.com",
 						"icon": "mdi:twitter"
@@ -176,11 +181,6 @@
 						"name": "Mastodon",
 						"url": "https://mastodon.social/",
 						"icon": "ri:mastodon-fill"
-					},
-					{
-						"name": "Reddit",
-						"url": "https://reddit.com",
-						"icon": "mdi:reddit"
 					},
 					{
 						"name": "Polywork",
@@ -222,24 +222,24 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "PopSci",
-						"url": "https://popsci.com/",
-						"icon": "material-symbols:science"
+						"name": "Nature",
+						"url": "https://nature.com",
+						"icon": "mdi:leaf"
 					},
 					{
-						"name": "Space",
-						"url": "fa6-solid:user-astronaut",
-						"icon": "mdi:reddit"
+						"name": "Science",
+						"url": "https://sciencemag.org",
+						"icon": "mdi:atom"
 					},
 					{
-						"name": "NASA",
-						"url": "https://blogs.nasa.gov/",
-						"icon": "simple-icons:nasa"
+						"name": "Scientific American",
+						"url": "https://scientificamerican.com",
+						"icon": "mdi:atom"
 					},
 					{
-						"name": "ESA",
-						"url": "https://blogs.esa.int/",
-						"icon": "mdi:black-mesa"
+						"name": "New Scientist",
+						"url": "https://newscientist.com",
+						"icon": "mdi:atom"
 					}
 				]
 			},
