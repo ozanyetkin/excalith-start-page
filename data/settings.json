@@ -112,8 +112,7 @@
 				"title": "General",
 				"color": "green",
 				"align": "left",
-				"links": 
-				[
+				"links": [
 					{
 						"name": "Google",
 						"url": "https://google.com",
@@ -133,7 +132,8 @@
 						"name": "Wikipedia",
 						"url": "https://wikipedia.org",
 						"icon": "mdi:wikipedia"
-					}]
+					}
+				]
 			},
 			{
 				"title": "Dev",
@@ -232,14 +232,14 @@
 						"icon": "mdi:atom"
 					},
 					{
-						"name": "Scientific American",
-						"url": "https://scientificamerican.com",
-						"icon": "mdi:atom"
+						"name": "Space",
+						"url": "fa6-solid:user-astronaut",
+						"icon": "mdi:reddit"
 					},
 					{
-						"name": "New Scientist",
-						"url": "https://newscientist.com",
-						"icon": "mdi:atom"
+						"name": "ESA",
+						"url": "https://blogs.esa.int/",
+						"icon": "mdi:black-mesa"
 					}
 				]
 			},
